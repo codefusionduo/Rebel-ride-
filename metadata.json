@@ -1,0 +1,6 @@
+{
+  "name": "Realistic City Driving Simulator 3D",
+  "description": "3D Realistic Car Driving Game with Clutch, Manual Gear Shifter, Brake, Accelerator, Horn, Detailed 1st-Person Interior Cockpits, Car Progression, and Interactive City Map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
